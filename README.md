@@ -18,6 +18,7 @@ The dataset contains 1030 observations and includes the following features:
 	•	strength (target): Compressive strength of the concrete (MPa).
 
 Workflow
+
 	1.	Data Loading
 	•	Imported the dataset and libraries like pandas, NumPy, and Matplotlib.
 	2.	Exploratory Data Analysis (EDA)
@@ -32,14 +33,17 @@ Workflow
 	•	Evaluated model performance using metrics like R² score and Mean Squared Error (MSE).
 
 Results
+
 	•	R² Score: Measures how well the model explains variance in the data.
 	•	Mean Squared Error (MSE): Indicates the average squared difference between predicted and actual values.
 
 Technologies Used
+
 	•	Python
 	•	Libraries: pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 How to Run
+
 	1.	Clone the repository:
 
 git clone https://github.com/your-username/Concrete-Strength-Prediction.git  
@@ -49,6 +53,7 @@ git clone https://github.com/your-username/Concrete-Strength-Prediction.git
 	3.	Open and run the Jupyter Notebook (ConcreteStrength.ipynb).
 
 Future Improvements
+
 	•	Explore non-linear regression models like Decision Trees or Random Forests.
 	•	Perform feature engineering to identify additional influential factors.
 
